@@ -1,6 +1,6 @@
 # Cloud Foundry Walkthrough
 
-##Shhhhh!
+## Shhhhh!
 * user:   ???????
 * passwd: ????????????
 
@@ -10,12 +10,12 @@
 1. Networks, Gateways, Internal/External IP Addresses?
 1. IaaS, PaaS and SaaS?
 
-##Cloud Native Primer
+## Cloud Native Primer
 1. [Why Cloud Native](https://content.enablement.pivotal.io/spring-cloud-services/why-cloud-native)
 1. [12 Factor App](https://content.enablement.pivotal.io/spring-cloud-services/68-cloud-native-design.pdf)
 1. Spring Cloud Services (The Netflix OSS)?
 
-##Cloud Foundry Intro
+## Cloud Foundry Intro
 1. Open Source CF
 1. PWS
 1. PCF
@@ -44,11 +44,11 @@
    1. cf create-app-manifest
    1. cf plugins
    1. cf ssh
-   2. [cftunnel](https://github.com/pivotal-education/public-tools/tree/master/cftunnel) :-)
+   1. [cftunnel](https://github.com/pivotal-education/public-tools/tree/master/cftunnel) :-)
 1. [Logging, Scale & HA](https://content.enablement.pivotal.io/zzz-pivotal-cloud-foundry-administrator/platform-app-delivery-unit/logging-scale-ha/slides.pdf)
 1. [BOSH](https://content.enablement.pivotal.io/zzz-pivotal-cloud-foundry-administrator/troubleshooting-unit/bosh-troubleshooting/slides.pdf)
 1. [Deployment Topologies](https://content.enablement.pivotal.io/zzz-pivotal-cloud-foundry-administrator/operations-unit/deployment-topologies/slides.pdf)
 
-##Questions
+## Questions
 
 Fire away ...
