@@ -26,7 +26,7 @@
 1. Apps Manager (PCF & PWS)
 1. The CF cli (all CFs)
    1. [Installing the CF cli](https://console.run.pivotal.io/tools)
-   1. cf login -a https://api.run.pivotal.io -u USER -p PASS -o apm-pivotal-org -s development
+   1. cf login -a https://api.run.pivotal.io -u USER -o apm-pivotal-org -s development
    1. cf help -a
    1. cf stacks
    1. cf buildpacks
