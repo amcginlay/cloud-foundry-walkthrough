@@ -1,7 +1,7 @@
 # Cloud Foundry Walkthrough
 
 ## Fetch
-* [Demo Apps](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/cf-push-to-the-cloud/demo-apps.zip) (you'll need to rename the downloaded file to zip and extract)
+* [Demo Apps](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/cf-push-to-the-cloud/demo-apps.zip) (you'll need to rename the downloaded file to **demo.zip** and extract)
 * [Articulate](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/logging-scale-ha/articulate-0.0.1-SNAPSHOT.jar)
 * [Attendee Service](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/services/attendee-service-0.0.1-SNAPSHOT.jar)
 
