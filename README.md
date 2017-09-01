@@ -29,6 +29,7 @@
    1. cf login -a https://api.run.pivotal.io -u USER -p PASS -o apm-pivotal-org -s development
    1. cf help -a
    1. cf stacks
+   1. cf buildpacks
    1. cf marketplace
    1. cf orgs
    1. cf spaces
