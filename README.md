@@ -6,7 +6,7 @@
 * [Attendee Service](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/services/attendee-service-0.0.1-SNAPSHOT.jar)
 
 ## I've always wondered ...
-1. Vitual Machine and Containers?
+1. Vitual Machines and Containers?
 1. Immutable, Ephemeral, Polyglot, and Idempotent?
 1. Networks, Gateways, Internal/External IP Addresses?
 1. IaaS, PaaS and SaaS?
