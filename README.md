@@ -1,10 +1,14 @@
 # Cloud Foundry Walkthrough
 
 ## Example Source Code
-* Fetch "Articulate" code: `git clone https://github.com/pivotal-education/pcf-articulate-code.git`
-* Fetch "Attendee Service" code: `git clone https://github.com/pivotal-education/pcf-attendee-service-code.git`
-* Install Homebrew: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-* Install Java: `brew update && brew brew cask install java`
+* Fetch "Articulate" code:
+  `git clone https://github.com/pivotal-education/pcf-articulate-code.git`
+* Fetch "Attendee Service" code:
+  `git clone https://github.com/pivotal-education/pcf-attendee-service-code.git`
+* Install Homebrew:
+  `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+* Install Java:
+  `brew update && brew brew cask install java`
 
 ## I've always wondered ...
 1. Vitual Machines and Containers?
