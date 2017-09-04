@@ -1,12 +1,9 @@
 # Cloud Foundry Walkthrough
 
 ## Fetch and build the example source code
-* Install Homebrew:
+* Install Homebrew and Java (if necessary):
   ```
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  ```
-* Install Java:
-  ```
   brew update && brew cask install java
   ```
 * Fetch "Articulate" code:
