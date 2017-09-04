@@ -1,6 +1,14 @@
 # Cloud Foundry Walkthrough
 
-## Example Source Code
+## Fetch and build the example source code
+* Install Homebrew:
+  ```
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  ```
+* Install Java:
+  ```
+  brew update && brew brew cask install java
+  ```
 * Fetch "Articulate" code:
   ```
   git clone https://github.com/pivotal-education/pcf-articulate-code.git
@@ -9,13 +17,11 @@
   ```
   git clone https://github.com/pivotal-education/pcf-attendee-service-code.git\
   ```
-* Install Homebrew:
+  
+* Compile code:
   ```
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  ```
-* Install Java:
-  ```
-  brew update && brew brew cask install java
+  cd [PATH_TO]/pcf-articulate-code && ./mvnw clean package
+  cd [PATH_TO]/pcf-attendee-service-code && ./mvnw clean package
   ```
 
 ## I've always wondered ...
