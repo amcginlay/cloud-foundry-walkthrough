@@ -1,9 +1,10 @@
 # Cloud Foundry Walkthrough
 
-## Fetch
-* [Demo Apps](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/cf-push-to-the-cloud/demo-apps.zip) (you'll need to rename the downloaded file to **demo-apps.zip** and extract)
-* [Articulate](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/logging-scale-ha/articulate-0.0.1-SNAPSHOT.jar) (or `git clone https://github.com/pivotal-education/pcf-articulate-code.git`)
-* [Attendee Service](https://content.enablement.pivotal.io/pivotal-cloud-foundry-developer/pcf-developer-basics/services/attendee-service-0.0.1-SNAPSHOT.jar) (or `git clone https://github.com/pivotal-education/pcf-attendee-service-code.git`)
+## Example Source Code
+* Fetch "Articulate" code: `git clone https://github.com/pivotal-education/pcf-articulate-code.git`
+* Fetch "Attendee Service" code: `git clone https://github.com/pivotal-education/pcf-attendee-service-code.git`
+* Install Homebrew: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+* Install Java: `brew update && brew brew cask install java`
 
 ## I've always wondered ...
 1. Vitual Machines and Containers?
