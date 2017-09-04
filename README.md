@@ -7,7 +7,7 @@
   ```
 * Install Java:
   ```
-  brew update && brew brew cask install java
+  brew update && brew cask install java
   ```
 * Fetch "Articulate" code:
   ```
